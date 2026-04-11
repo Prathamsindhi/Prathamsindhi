@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Pratham 👋
 
-<!--
-**Prathamsindhi/Prathamsindhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Class 11 Student from Agra, India  
+💻 Aspiring CS Student | MIT/Stanford Dream  
+🚀 Learning C++ & Data Structures  
+📚 JEE 2027 Aspirant  
 
-Here are some ideas to get you started:
+## 🛠️ Currently Learning
+- C++ Programming
+- Data Structures & Algorithms
+- Competitive Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 My Projects
+- [C++ Basics](https://github.com/Prathamsindhi/cpp-basics) — My C++ learning journey
+
+## 🎯 Goals
+- JEE Advanced 2027
+- IOI Qualification
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prathamsindhi&show_icons=true&theme=tokyonight)
