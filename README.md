@@ -1,7 +1,7 @@
 # Hi, I'm Pratham 👋
 
 🎓 Class 11 Student from India  
-💻 Aspiring CS Student | MIT/Stanford Dream  
+💻 Aspiring CS Student
 🚀 Learning C++ & Data Structures  
 📚 JEE 2027 Aspirant  
 
